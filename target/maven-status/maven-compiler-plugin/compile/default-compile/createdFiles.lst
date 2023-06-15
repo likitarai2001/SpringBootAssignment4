@@ -1,0 +1,8 @@
+org/spring/bookShop/controller/BookController.class
+org/spring/bookShop/entities/Book$BookBuilder.class
+org/spring/bookShop/entities/Book.class
+org/spring/bookShop/service/BookService.class
+org/spring/bookShop/service/BookServiceImpl.class
+org/spring/bookShop/repository/BookRepository.class
+org/spring/bookShop/BookShopApplication.class
+org/spring/bookShop/controller/CustomExceptionHandler.class
